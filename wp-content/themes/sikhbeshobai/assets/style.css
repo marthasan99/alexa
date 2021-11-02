@@ -1673,3 +1673,9 @@ hr.invis3 {
     -o-border-radius: 50%;
     border-radius: 50%
 }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
